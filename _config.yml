@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Gerald Marquez"
-  avatar : "/assets/images/IMG_0520.jpeg"
+  avatar : "/assets/images/gerald_photo"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
