@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /cv/
+layout: exp
+permalink: /exp/
 title: My experience so far
 tags: [about]
 modified: 8-7-2014
