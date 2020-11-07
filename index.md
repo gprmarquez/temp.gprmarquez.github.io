@@ -13,7 +13,7 @@ I am currently a Software Engineering Fellow at <a href="https://fellowship.mlh.
 As a prospect researcher, I discovered my desire to be a software developer through the repetitive tasks that were assigned. I realized that a lot of the work being done could be automated, so I tried to do just that. One of my tasks was to manually input names into Google Alerts, taking hours depending on how many names must be entered. I taught myself how to use VS Code and scoured the internet for a bulk Google Alerts uploader, and stumbled across <a href="https://github.com/9b/google-alerts" target="_blank">Brandon Dixon's google-alert repository</a> on GitHub, where he has created a tool to streamline Google Alert management. Still, it was not a bulk uploader and I wanted to manage the Alert properties myself as well. I have never used Python or Selenium before, but I successfully adapted their code to become a bulk uploader using the Pandas library. With that, I shortened a process that took almost a whole day to just a couple of minutes, and I fell in love with programming at the same time. 
 <br /><br />
 
-**Long story short:** I wanted to automate my work, so I did, and now I want to make other people's lives easier by becoming a software developer.
+**Long story short:** I wanted to automate some of my work, so I did, and now I want to make other people's lives easier by becoming a software developer.
 
 <br />
 Check out my work from Major League Hacking so far!
