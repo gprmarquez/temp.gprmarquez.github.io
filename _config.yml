@@ -3,7 +3,6 @@ description:      Welcome!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //gprmarquez.github.io
 #http://localhost:5000
-#https://jponttuset.github.io
 disqus_shortname: gprmarquez
 
 # Owner/author information

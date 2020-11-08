@@ -1,7 +1,7 @@
 ---
 layout: home2
 title: About Me
-description: "Jordi Pont-Tuset's website"
+description: "Gerald Marquez's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: san_diego.jpg
