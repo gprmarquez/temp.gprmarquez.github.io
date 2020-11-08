@@ -1,12 +1,13 @@
 ---
 layout: home2
-title: About Me
+title: Gerald Marquez
 description: "Gerald Marquez's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: san_diego.jpg
 ---
 
+<h3>About Me</h3>
 I am currently a Software Engineering Fellow at <a href="https://fellowship.mlh.io/" target="_blank">Major League Hacking</a>, where my 10-person pod is split to work on various projects with a new theme every two weeks. Since graduating with a business management degree from <a href="https://business.ucr.edu/" target="_blank">UC Riverside</a> in 2018, I have been an Assistant Prospect Researcher at <a href="https://breakthrough.caltech.edu/" target="_blank">Caltech</a>, researching and recording information about 120K+ institute constituents in our _Ellucian Advance_ database.
 
 <br />
